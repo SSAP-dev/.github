@@ -1,1 +1,1 @@
-# Repository for profile
+Repository for SSAP organization profile
